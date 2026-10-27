@@ -48,7 +48,7 @@
     "@tailwindcss/typography": "^0.5.18",
     "@tailwindcss/vite": "^4.3.3",
     "core-js": "^3.45.1",
-    "nuxt": "^3.19.2",
+    "nuxt": "^4.6.2",
     "stimulus-glow": "workspace:*",
     "yaml": "^2.8.1"
   },
